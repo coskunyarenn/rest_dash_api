@@ -1,0 +1,176 @@
+{
+  "firma": [
+    {
+      "id": "1",
+      "name": "Cafe34",
+      "categories": [
+        {
+          "id": "1",
+          "category_name": {
+            "en": "Beverages",
+            "tr": "Kokyteys",
+            "ru": "Hamur İşleri",
+            "uk": "Hamur İşleri"
+          },
+          "category_note": {
+            "en": "Beverages",
+            "tr": "İçecekler",
+            "ru": "Hamur İşleri",
+            "uk": "Hamur İşleri"
+          },
+          "category_image_url": "https://picsum.photos/200",
+          "subcategory": [
+            {
+              "id": "1-1",
+              "subcategory_name": {
+                "en": "Hot Drinks",
+                "tr": "Sıcak İçecekler",
+                "ru": "Hamur İşleri",
+                "uk": "Hamur İşleri"
+              },
+              "subcategory_note": {
+                "en": "Beverages",
+                "tr": "İçecekler",
+                "ru": "Hamur İşleri",
+                "uk": "Hamur İşleri"
+              },
+              "subcategory_image_url": "https://picsum.photos/200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "1938 Cafe",
+      "categories": [
+        {
+          "id": "1",
+          "category_name": {
+            "en": "Meals",
+            "tr": "Yemekler"
+          },
+          "subcategory": [
+            {
+              "id": "1-1",
+              "subcategory_name": {
+                "en": "Main Meals",
+                "tr": "Ana yemekler"
+              },
+              "subcategory_note": {
+                "en": "All our fajitas are served with tortilla wraps, guacomole, ranch sauce and salsa",
+                "tr": "Tüm fajitalarımız tortilla, guacomle sosu, range sos ve salsa ile servis edilir"
+              },
+              "subcategory_image_url": "https://picsum.photos/200"
+            }
+          ],
+          "category_note": {
+            "en": "",
+            "tr": ""
+          },
+          "category_image_url": "https://picsum.photos/200"
+        },
+        {
+          "id": "2",
+          "category_name": {
+            "en": "Drinks",
+            "tr": "İçecekler"
+          },
+          "subcategory": [
+            {
+              "id": "1-1",
+              "subcategory_name": {
+                "en": "Soft Drinks",
+                "tr": "Soft içecekler "
+              },
+              "subcategory_note": {
+                "en": "",
+                "tr": ""
+              },
+              "subcategory_image_url": "https://picsum.photos/200"
+            }
+          ],
+          "category_note": {
+            "en": "",
+            "tr": ""
+          },
+          "category_image_url": "https://picsum.photos/200"
+        },
+        {
+          "id": "3",
+          "category_name": {
+            "en": "Drinks",
+            "tr": "İçecekler"
+          },
+          "subcategory": [
+            {
+              "id": "1-1",
+              "subcategory_name": {
+                "en": "Soft Drinks",
+                "tr": "Soft içecekler "
+              },
+              "subcategory_note": {
+                "en": "",
+                "tr": ""
+              },
+              "subcategory_image_url": "https://picsum.photos/200"
+            },
+            {
+              "id": "1-2",
+              "subcategory_name": {
+                "en": "coffee",
+                "tr": "Kahve "
+              },
+              "subcategory_note": {
+                "en": "",
+                "tr": ""
+              },
+              "subcategory_image_url": "https://picsum.photos/200"
+            }
+          ],
+          "category_note": {
+            "en": "",
+            "tr": ""
+          },
+          "category_image_url": "https://picsum.photos/200"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "afitap",
+      "categories": [
+        {
+          "id": "1",
+          "category_name": {
+            "en": "Beverages",
+            "tr": "İçeceklerrrrrr",
+            "ru": "Hamur İşleri"
+          },
+          "subcategory": [
+            {
+              "id": "1-1",
+              "subcategory_name": {
+                "en": "Hot Drinks",
+                "tr": "Sıcak İçecekler",
+                "ru": "Hamur İşleri"
+              },
+              "subcategory_note": {
+                "en": "Beverages",
+                "tr": "İçecekler",
+                "ru": "Hamur İşleri"
+              },
+              "subcategory_image_url": "https://picsum.photos/200"
+            }
+          ],
+          "category_note": {
+            "en": "Beverages",
+            "tr": "İçecekler",
+            "ru": "Hamur İşleri"
+          },
+          "category_image_url": "https://picsum.photos/200"
+        }
+      ]
+    }
+  ]
+}
